@@ -25,9 +25,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/brianangulo/mailerexpress">
-    <img src="assets/icon.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">mailerexpress</h3>
 
@@ -35,7 +32,6 @@
     Microservice Expressjs app used to handle email notifications for my personal website
     <br />
     <br />
-    ·
     <a href="https://github.com/brianangulo/mailerexpress/issues">Report Bug</a>
     ·
     <a href="https://github.com/brianangulo/mailerexpress/issues">Request Feature</a>
